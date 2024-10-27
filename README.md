@@ -38,7 +38,7 @@ This Hotel Management System is a C++ application that allows users to manage ho
 
 ## File Structure
 
-- **hotel_management_system.cpp:** The main source file containing the implementation of the hotel management system.
+- **main.cpp:** The main source file containing the implementation of the hotel management system.
 - **hotel_data.txt:** A text file that stores reservation data. This file will be created automatically upon running the program.
 
 ## Usage
